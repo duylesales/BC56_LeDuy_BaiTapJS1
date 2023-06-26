@@ -1,7 +1,7 @@
 /*
 input:
     tienLuongMotNgay
-    soNgayLamViec
+    soNgayLamViec - có thể là số thực (decimal)) như nửa ngày lương là 0.5
 progress
     b1: khai báo biến chứa giá trị tiền lương và số ngày làm việc
     b2: cho tongLuong = soNgayLamViec * tienLuong
